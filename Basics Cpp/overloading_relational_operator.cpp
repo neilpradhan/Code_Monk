@@ -78,5 +78,8 @@ int main()
 	cout<<phone<<endl; // invoking the overloaded operator
 
 }
-
+// output
+// Enter phone number in form (123) 456-7890:
+// (324) 456-5848
+// The phone number entered was: (324)456-5848
 
