@@ -21,7 +21,8 @@ int sum(int input[], int n) {
 
     int total =input[0]+ sum(input+1,n-1);
     
-
+// solving same problem by recussively diving array in two parts for odd number of elements
+//int total = sum(input,(n+1)/2) +sum(input+(n+1)/2,(n+1)/2);		
     
     
     
